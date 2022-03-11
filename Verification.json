@@ -1,0 +1,38 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 65484,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/292769908369129472/824186045452779560/Banner.png"
+      }
+    },
+    {
+      "title": "Welcome to \"FrontWing's ISLAND\"!",
+      "description": "Welcome to Urashima, the home and place where ISLAND takes place. This is one of the newest Discord servers, revolving around the Visual Novel, Anime and Manga \"ISLAND\".\n\nThis server is a place for all ISLAND fans, future fans and other people who are just looking for a chill and relaxing server. We offer a welcoming, comfy and small community and several other options for you to pass time!\n\nFor all who are not interested in any server activities, we have some premium and unique emotes for all the Nitro users to make use of. All of them are only available in this server and are exclusive!",
+      "color": 65484
+    },
+    {
+      "title": "Rules that you have to follow:",
+      "description": "➜ No racism, bullying, discrimination or anything similar.\n➜ No NSFW content of any kind.\n➜ No flirting, dating or overly sexual conversations.\n\n➜ No excessive pinging or spamming.\n➜ No advertisement in chat or DMs.\n➜ No extremely offensive phrases.\n\n➜ No controversial topics in chat.\n➜ Don't share any illegal content.\n➜ Don't try to find or abuse loopholes.\n\n➜ Exclusively use English.\n➜ Post content in the right channels.\n➜ Follow Discord's Terms of Services.\n\nDiscord ToS: https://discord.com/terms\nGuidelines: https://discord.com/guidelines\n\nBreaking any of the rules can and will lead to actions being taken depending on the rule. We try to have a welcoming and peaceful atmosphere, please treat everyone well and with respect.",
+      "color": 65484
+    }
+  ]
+}
+
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 65484,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/823882909655891977/826734721664548884/man_this_shit_is_too_adorable_man.png"
+      }
+    },
+    {
+      "title": "Verification",
+      "description": "For security reasons we require you to solve a simple captcha to verify that you are human. This is to ensure the safety and help combat potential bots or raiders.\n\nWhen joining, you'll receive a captcha that you have to solve by typing in the green highlighted letters on in the image (not case sensitive) in a time span of 5 minutes.\n\nIf you fail to verify, you can restart the process by typing ``w!verify``. \nIf no captcha appears, please contact a staff member for help.",
+      "color": 65484
+    }
+  ]
+}

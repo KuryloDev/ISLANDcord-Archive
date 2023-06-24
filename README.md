@@ -7,8 +7,6 @@ Welcome to the official archive for the Discord server "FrontWing's ISLAND"
 
 
 ### Server Info
-
-- Vanity URL: http://discord.gg/bingchilling (yes, I am serious)
 - Permanent Link: https://discord.gg/eZMKxeZNwQ
 
 
